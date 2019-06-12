@@ -1,6 +1,6 @@
 # Conjugaison
 
-## This is how to use a verb in French.
+*This is how to use a verb in French.*
 
 There are 3 verb groups in French:
 - group I (most verbs): verbs infinitif ends in “er”, ex: parler (to speak)
@@ -9,11 +9,11 @@ There are 3 verb groups in French:
 
 Let’s try with group I verb “manger” (to eat):
 
-### 1) Présent
+## 1) Présent
 
-Works exactly like present tense in English.
+*Works exactly like present tense in English.*
 
-Français | Anglais
+Manger | To Eat
 --- | ---
 Je mange | I eat
 Tu manges | You eat
@@ -22,14 +22,15 @@ Nous mangeons | We eat
 Vous mangez | You (plural or polite) eat
 Ils / Elle mangent | They eat
 
-### 2) Participe passé
+## 2) Participe passé
 
-There is only one per verb, used to build composed forms like Passé composé (section 3) Passé).
+*There is only one per verb, used to build composed forms like Passé composé (section 4 - Passé).*
 
-mangé
-eaten
+Manger | To Eat
+--- | ---
+mangé | eaten
 
-2) Future
+3) Future
 You can talk about future events by using the construct:
 Pronoun + [aller, present tense, conjugated] + verb infinitive
 It is actually close to the English construct “going to” as in “I’m going to eat soon!”
@@ -56,7 +57,7 @@ They are going to eat
 
 
 
-3) Passé
+4) Passé
 To talk about a past event you can use the construct:
 Pronoun + [être or avoir, present tense, conjugated] + participe passé
 It is like in English when you say: I have seen it!
@@ -78,7 +79,7 @@ They have eaten
 
 Bonus:
 
-4) En train de se produire
+5) En train de se produire
 You can talk about some event happening right now by using this construct:
 Pronoun + [être, present, conjugated] en train de + verb infinitive
 In English you’d use “verb-ing”: I’m thinking about something...
