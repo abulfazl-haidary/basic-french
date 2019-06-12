@@ -13,6 +13,7 @@ Let’s try with group I verb “manger” (to eat):
 
 Works exactly like present tense in English.
 
+Français | Anglais
 --- | ---
 Je mange | I eat
 Tu manges | You eat
