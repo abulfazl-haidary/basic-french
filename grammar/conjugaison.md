@@ -13,32 +13,16 @@ Let’s try with group I verb “manger” (to eat):
 
 Works exactly like present tense in English.
 
-Je mange
+--- | ---
+Je mange | I eat
+Tu manges | You eat
+Il / Elle / On mange | He / She / One eats
+Nous mangeons | We eat
+Vous mangez | You (plural or polite) eat
+Ils / Elle mangent | They eat
 
+### 2) Participe passé
 
-
-
-
-
-
-
-
-
-
-
-I eat
-Tu manges
-You eat
-Il / Elle / On mange
-He / She / One eats
-Nous mangeons
-We eat
-Vous mangez
-You (plural or polite) eat
-Ils / Elle mangent
-They eat
-
-2) Participe passé
 There is only one per verb, used to build composed forms like Passé composé (section 3) Passé).
 
 mangé
