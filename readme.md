@@ -4,7 +4,7 @@ Like Basis English but for French!
 
 ## Grammar
 
-- [Conjugaison](https://github.com/CyrilAntoni/basic-french/blob/master/grammar/conjugaison.md)
+- [Conjugation](https://github.com/CyrilAntoni/basic-french/blob/master/grammar/conjugation.md)
 
 ## Vocabulary
 
@@ -22,6 +22,6 @@ Like Basis English but for French!
 
 ## Todo
 
-- [ ] finish grammar -- conjugason
+- [ ] finish grammar -- conjugation
 - [ ] finish all 850 basic English words
 - [ ] add basic sentence lessons
