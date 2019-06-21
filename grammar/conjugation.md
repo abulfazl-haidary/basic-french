@@ -30,7 +30,7 @@ Manger | To Eat
 --- | ---
 mangé | eaten
 
-## 3) Future
+## 3) Futur
 
 *You can talk about future events by using the construct:*
 
