@@ -32,11 +32,11 @@ mangé | eaten
 
 ## 3) Future
 
-*You can talk about future events by using the construct:
+*You can talk about future events by using the construct:*
 
 **Pronoun + [aller, present tense, conjugated] + verb infinitive**
 
-It is actually close to the English construct “going to” as in “I’m going to eat soon!”*
+*It is actually close to the English construct “going to” as in “I’m going to eat soon!”*
 
 Manger | To Eat
 --- | ---
@@ -48,13 +48,13 @@ Vous allez manger | You (plural or polite) are going to eat
 Ils / Elles vont manger | They are going to eat
 
 ## 4) Passé
-*To talk about a past event you can use the construct:
+*To talk about a past event you can use the construct:*
 
 **Pronoun + [être or avoir, present tense, conjugated] + participe passé**
 
-It is like in English when you say: I have seen it!
+*It is like in English when you say: I have seen it!*
 
-note: you need to memorize for each verb if you should use être or avoir, and how it could affect the meaning of the sentence: I have eaten yesterday / I was eaten yesterday.*
+*note: you need to memorize for each verb if you should use être or avoir, and how it could affect the meaning of the sentence: I have eaten yesterday / I was eaten yesterday.*
 
 Manger | To Eat
 --- | ---
@@ -69,11 +69,11 @@ Ils / Elles ont mangé | They have eaten
 ## Bonus:
 
 ## 5) En train de se produire
-*You can talk about some event happening right now by using this construct:
+*You can talk about some event happening right now by using this construct:*
 
 **Pronoun + [être, present, conjugated] en train de + verb infinitive**
 
-In English you’d use “verb-ing”: I’m thinking about something...*
+*In English you’d use “verb-ing”: I’m thinking about something...*
 
 Manger | To Eat
 --- | ---
