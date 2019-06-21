@@ -1,4 +1,4 @@
-# Conjugaison
+# Conjugation
 
 *This is how to use a verb in French.*
 
