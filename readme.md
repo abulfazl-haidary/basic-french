@@ -4,7 +4,7 @@ Like Basis English but for French!
 
 ## Grammar
 
-- [Conjugation](/conjugation.md)
+- [Conjugation](/conjugation.html)
 
 ## Vocabulary
 
