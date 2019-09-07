@@ -1,49 +1,53 @@
-account
-act
-addition
-adjustment
-advertisement
-agreement
-air
-amount
-amusement
-animal
-answer
-apparatus
-approval
-argument
-art
-attack
-attempt
-attention
-attraction
-authority
-back
-balance
-base
-behavior
-belief
-birth
-bit
-bite
-blood
-blow
-body
-brass
-bread
-breath
-brother
-building
-burn
-burst
-business
-butter
-canvas
-care
-cause
-chalk
-chance
-change
+# Things
+
+English | Français
+--- | ---
+account | (le) compte
+act | (un) acte
+addition | (une) addition
+adjustment | (un) ajustement
+advertisement | (une) publicité
+agreement | (un) accord
+air | (le) l'air
+amount | (le) montant
+amusement | (le) l'amusement
+animal | (un) animal
+answer | (une) réponse
+apparatus | (un) appareil
+approval | (une) l'approbation
+argument | un argument, la dispute
+art | (un) l'art
+attack | une attaque
+attempt | une tentative
+attention | (une) l'attention
+attraction | (une) attraction
+authority | (une) autorité
+back | (le) retour, (le) dos
+balance | (le) équilibre
+base | (la) base
+behavior | (le) comportement
+belief | (la) croyance
+birth | (la) naissance
+bit | (un) peu
+bite | mordre, (la) morsure
+blood | (le) sang
+blow | (le) coup
+body | (le) corps
+brass | (le) laiton
+bread | (le) pain
+breath | (le) souffle
+brother | (le) frère
+building | (le) bâtiment
+burn | brûler, (la) brûlure
+burst | éclater
+business | (une) entreprise
+butter | (le) beurre
+canvas | (la) toile
+care | se soucier (de), (le) soin
+cause | (la) cause, (la) raison
+chalk | (la) craie
+chance | (la) chance, (le) hasard
+change | (le) changement, (la) monnaie
 cloth
 coal
 color
