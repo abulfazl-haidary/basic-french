@@ -95,16 +95,14 @@ Nous  sommes | We are
 Vous  êtes | You (plural or polite) are
 Ils / Elles  sont | They are
 
-
 Avoir | To Have
 --- | ---
 J’ai | I have
 Tu as | You have
 Il / Elle / On a | He / She / One has
 Nous avons | We have
-Vous avez
+Vous avez | You have
 You (plural or polite) have | Ils / Elles ont | They have
-
 
 Aller | To Go
 --- | ---
