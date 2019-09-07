@@ -4,13 +4,12 @@ Like Basis English but for French!
 
 ## Grammar
 
-- [Conjugation](/grammar/conjugation.html)
 - [Conjugation](/grammar/conjugation.md)
 
 ## Vocabulary
 
-- [Operations](https://github.com/CyrilAntoni/basic-french/blob/master/vocabulary/operations.md)
-- [Things](https://github.com/CyrilAntoni/basic-french/blob/master/vocabulary/things.md)
+- [Operations](/vocabulary/operations.md)
+- [Things](/vocabulary/things.md)
 
 ## Lessons
 
