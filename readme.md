@@ -22,6 +22,6 @@ Like Basis English but for French!
 
 ## Todo
 
-- [ ] finish grammar -- conjugation
+- [x] finish grammar -- conjugation
 - [ ] finish all 850 basic English words
 - [ ] add basic sentence lessons
