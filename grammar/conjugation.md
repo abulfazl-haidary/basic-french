@@ -101,8 +101,8 @@ J’ai | I have
 Tu as | You have
 Il / Elle / On a | He / She / One has
 Nous avons | We have
-Vous avez | You have
-You (plural or polite) have | Ils / Elles ont | They have
+Vous avez | You (plural or polite) have 
+Ils / Elles ont | They have
 
 Aller | To Go
 --- | ---
