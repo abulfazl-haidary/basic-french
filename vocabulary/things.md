@@ -67,37 +67,37 @@ cotton | (le) coton
 cough | (la) toux
 country | (le) pays
 cover | couvrir, (la) couverture
-crack
-credit
-crime
-crush
-cry
-current
-curve
-damage
-danger
-daughter
-day
-death
-debt
-decision
-degree
-design
-desire
-destruction
-detail
-development
-digestion
-direction
-discovery
-discussion
-disease
-disgust
-distance
-distribution
-division
-doubt
-drink
+crack | fissurer, (la) fissure
+credit | créditer, (le) crédit
+crime | (le) crime
+crush | écraser
+cry | pleurer, (le) cri
+current | (le) actuel, (la) actuelle
+curve | (la) courbe
+damage | endommager, (le) dommage
+danger | danger
+daughter | (la) fille
+day | (le) jour, (la) journée
+death | (la) mort
+debt | (la) dette
+decision | (la) décision
+degree | (le) diplôme
+design | (le) désign
+desire | désirer, (la) envie
+destruction | (la) destruction
+detail | détailler, (le) détail
+development | (le) développement
+digestion | (la) digestion
+direction | (la) direction
+discovery | (la) découverte
+discussion | (la) discussion
+disease | (la) maladie
+disgust | (le) dégoût
+distance | (la) distance
+distribution | (la) distribution
+division | (la) division
+doubt | (le) doute
+drink | boire, (la) boisson
 driving
 dust
 earth
