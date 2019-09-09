@@ -48,25 +48,25 @@ cause | (la) cause, (la) raison
 chalk | (la) craie
 chance | (la) chance, (le) hasard
 change | (le) changement, (la) monnaie
-cloth
-coal
-color
-comfort
-committee
-company
-comparison
-competition
-condition
-connection
-control
-cook
-copper
-copy
-cork
-cotton
-cough
-country
-cover
+cloth | (le) tissu
+coal | (le) charbon
+color | (la) couleur
+comfort | (le) confort
+committee | (le) comité
+company | (la) l'entreprise
+comparison | (la) comparaison
+competition | (la) concurrence
+condition | (le) l'état
+connection | (le) lien, (la) connexion
+control | (le) contrôle
+cook | cuisiner, (le/la) cuisini(er/ère)
+copper | (le) cuivre
+copy | copier, (la) copie
+cork | (le) liège
+cotton | (le) coton
+cough | (la) toux
+country | (le) pays
+cover | couvrir, (la) couverture
 crack
 credit
 crime
