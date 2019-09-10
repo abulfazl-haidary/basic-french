@@ -98,56 +98,56 @@ distribution | (la) distribution
 division | (la) division
 doubt | (le) doute
 drink | boire, (la) boisson
-driving
-dust
-earth
-edge
-education
-effect
-end
-error
-event
-example
-exchange
-existence
-expansion
-experience
-expert
-fact
-fall
-family
-father
-fear
-feeling
-fiction
-field
-fight
-fire
-flame
-flight
-flower
-fold
-food
-force
-form
-friend
-front
-fruit
-glass
-gold
-government
-grain
-grass
-grip
-group
-growth
-guide
-harbor
-harmony
-hate
-hearing
-heat
-help
+driving | (la) conduite
+dust | (la) poussière
+earth | (la) terre, (le) sol
+edge | (le) bord
+education | (la) éducation
+effect | (le) effet
+end | (la) fin
+error | (la) erreur
+event | (le) événement
+example | (le) exemple
+exchange | (le) échange
+existence | (la) existence
+expansion | (la) expansion
+experience | (la) expérience
+expert | (le/la) expert(e)
+fact | (le) fait
+fall | tomber, (la) chute, (le) automne
+family | (la) famille
+father | (le) père
+fear | (avoir) peur, (la) peur
+feeling | (le) sentiment
+fiction | (la) fiction
+field | (le) champ
+fight | combattre, (le) combat
+fire | (le) feu
+flame | (la) flamme
+flight | (le) vol, (la) fuite
+flower | (la) fleur
+fold | plier, (le) pli
+food | (la) nourriture
+force | forcer, (la) force
+form | former, (la) forme
+friend | (le, la) ami(e)
+front | (le) avant
+fruit | (le) fruit
+glass | (le) verre
+gold | (le) or
+government | (le) gouvernement
+grain | (le) grain
+grass | (la) herbe
+grip | saisir, (la) poignée
+group | grouper, (le) groupe
+growth | (la) croissance
+guide | guider, (le) guide
+harbor | (le) port
+harmony | (la) harmonie
+hate | haïr, (la) haine
+hearing | (la) audition
+heat | chauffer, (la) chaleur
+help | aider, (la) aide
 history
 hole
 hope
