@@ -148,56 +148,56 @@ hate | haïr, (la) haine
 hearing | (la) audition
 heat | chauffer, (la) chaleur
 help | aider, (la) aide
-history
-hole
-hope
-hour
-humor
-ice
-idea
-impulse
-increase
-industry
-ink
-insect
-instrument
-insurance
-interest
-invention
-iron
-jelly
-join
-journey
-judge
-jump
-kick
-kiss
-knowledge
-land
-language
-laugh
-law
-lead
-learning
-leather
-letter
-level
-lift
-light
-limit
-linen
-liquid
-list
-look
-loss
-love
-machine
-man
-manager
-mark
-market
-mass
-meal
+history | (la) histoire
+hole | (le) trou
+hope | espérer, (le) espoir
+hour | (la) heure
+humor | (le) humour
+ice | (la) glace
+idea | (la) idée
+impulse | (la) impulsion
+increase | augmenter, (la) augmentation
+industry | (la) industrie
+ink | (la) encre
+insect | (le) insecte
+instrument | (le) instrument
+insurance | (la) assurance
+interest | (le) intérêt
+invention | (la) invention
+iron | (le) fer
+jelly | (la) gelée
+join | joindre, (la) join
+journey | (le) voyage
+judge | (le) juge
+jump | sauter, (le) saut
+kick | donner un coup
+kiss | faire un bisou, embrasser
+knowledge | (la) connaissance
+land | (la) terre
+language | (la) langue
+laugh | rire, (le) rire
+law | (la) loi
+lead | conduire
+learning | (le) apprentissage
+leather | (le) cuir
+letter | (la) lettre
+level | (le) niveau
+lift | soulever, (le) ascenseur
+light | (la) lumière
+limit | (la) limite
+linen | (le) lin
+liquid | (le) liquide
+list | (la) liste
+look | regarder, (le) aspect
+loss | (la) perte
+love | aimer, (le) amour
+machine | (la) machine
+man | (le) homme
+manager | (le/la) direct(eur/rice)
+mark | marquer, (la) marque
+market | (le) marché
+mass | (la) masse
+meal | (le) repas
 measure
 meat
 meeting
