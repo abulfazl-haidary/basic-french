@@ -198,58 +198,58 @@ mark | marquer, (la) marque
 market | (le) marché
 mass | (la) masse
 meal | (le) repas
+measure | (la) mesure
+meat | (la) viande
+meeting | (la) réunion
+memory | (la) mémoire, (le) souvenir
+metal | (le) métal
+middle | (le) milieu
+milk | (le) lait
+mind | (le) esprit
+mine | (la) mine
+minute | (la) minute
+mist | (le) brouillard
+money | (le) argent
+month | (le) mois
+morning | (le) matin
+mother | (la) mère
+motion | (le) mouvement
+mountain | (la) montagne
+move | bouger, (la) action
+music | (la) musique
+name | (le) nom
+nation | (la) nation
+need | avoir besoin, (le) besoin
+news | (la, les) nouvelle(s)
+night | (la) nuit
+noise | (le) bruit
+note | noter, (la) note, (la) remarque
+number | (le) nombre
+observation | (la) observation
+offer | (la) offre
+oil | (la) huile, (le) pétrole
+operation | (la) opération
+opinion | (la) opinion
+order | (le) ordre
+organization | (la) organisation
+ornament | (le) ornement
+owner | (le) propriétaire
+page | (la) page
+pain | (la) douleur
+paint | peindre, (la) peinture
+paper | (le) papier
+part | (la) partie
+paste | coller, (la) pâte
+payment | (le) paiement
+peace | (la) paix
+person | (la) personne
+place | (le) endroit
+plant | (la) plante, (la) usine
+play | jouer, (la) pièce de théatre
+pleasure | (le) plaisir
+point | (le) point
 
 
-measure
-meat
-meeting
-memory
-metal
-middle
-milk
-mind
-mine
-minute
-mist
-money
-month
-morning
-mother
-motion
-mountain
-move
-music
-name
-nation
-need
-news
-night
-noise
-note
-number
-observation
-offer
-oil
-operation
-opinion
-order
-organization
-ornament
-owner
-page
-pain
-paint
-paper
-part
-paste
-payment
-peace
-person
-place
-plant
-play
-pleasure
-point
 poison
 polish
 porter
