@@ -248,58 +248,58 @@ plant | (la) plante, (la) usine
 play | jouer, (la) pièce de théatre
 pleasure | (le) plaisir
 point | (le) point
+poison | (le) poison
+polish | polir, (le) vernis
+porter | (le) portier
+position | (la) position
+powder | (la) poudre
+power | (la) puissance, (le) pouvoir, (la) éléctricité
+price | (le) prix
+print | imprimer, (la) impression
+process | (le) processus
+produce | produire
+profit | (le) profit
+property | (la) propriété
+prose | (la) prose
+protest | protester, (le) protestation
+pull | tirer
+punishment | (le) châtiment
+purpose | (le) objectif
+push | pousser
+quality | (la) qualité
+question | (la) question
+rain | (la) pluie
+range | (le) intervalle
+rate | (le) taux, (le) tarif
+ray | (le) rayon
+reaction | (la) réaction
+reading | (la) lecture, (la) interprétation
+reason | (la) raison
+record | (le) record
+regret | regretter, (le) regret
+relation | (la) relation
+religion | (la) religion
+representative | (le/la) représentant(e)
+request | demander, (la) demande
+respect | respecter, (le) respect
+rest | se reposer, (le) repos, (le) reste
+reward | (la) récompense
+rhythm | (le) rythme
+rice | (le) riz
+river | (la) rivière
+road | (la) route
+roll | rouler, (le) rouleau
+room | (la) pièce, (la) chambre
+rub | frotter
+rule | gouverner, (la) règle
+run | courir
+salt | (le) sel
+sand | (le) sable
+scale | (la) balance
+science | (la) science
+sea | (la) mer
 
 
-poison
-polish
-porter
-position
-powder
-power
-price
-print
-process
-produce
-profit
-property
-prose
-protest
-pull
-punishment
-purpose
-push
-quality
-question
-rain
-range
-rate
-ray
-reaction
-reading
-reason
-record
-regret
-relation
-religion
-representative
-request
-respect
-rest
-reward
-rhythm
-rice
-river
-road
-roll
-room
-rub
-rule
-run
-salt
-sand
-scale
-science
-sea
 seat
 secretary
 selection
