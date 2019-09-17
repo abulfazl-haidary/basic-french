@@ -298,58 +298,58 @@ sand | (le) sable
 scale | (la) balance
 science | (la) science
 sea | (la) mer
+seat | (le) siège
+secretary | (le/la) secrétaire
+selection | (la) sélection
+self | soi(-même)
+sense | (le) sens
+servant | (le/la) serv(iteur/ante)
+sex | (le) sexe
+shade | (la) ombre
+shake | secouer
+shame | (la) honte
+shock | (le) choc
+side | (le) côté
+sign | (le) signe
+silk | (la) soie
+silver | (le) argent
+sister | (la) sœur
+size | (la) taille
+sky | (le) ciel
+sleep | dormir
+slip | glisser
+slope | (la) pente
+smash | fracasser, (le) fracas
+smell | sentir, (la) odeur
+smile | sourire, (le) sourire
+smoke | fumer, (la) fumée
+sneeze | (le) éternuement
+snow | neiger, (la) neige
+soap | (le) savon
+society | (la) société
+son | (le) fils
+song | (la) chanson
+sort | trier
+sound | (le) son, (le) bruit
+soup | (la) soupe
+space | (le) espace
+stage | (la) étape, (la) scène
+start | (le) début
+statement | (la) déclaration
+steam | (la) vapeur
+steel | (le) acier
+step | (la) étape, (le) pas
+stitch | (le) point (de suture)
+stone | (la) pierre
+stop | arrêter, (le) arrêt
+story | (le) récit, (la) histoire
+stretch | étendre, (la) étendue
+structure | structurer, (la) structure
+substance | (la) substance
+sugar | (le) sucre
+suggestion | (la) suggestion
 
 
-seat
-secretary
-selection
-self
-sense
-servant
-sex
-shade
-shake
-shame
-shock
-side
-sign
-silk
-silver
-sister
-size
-sky
-sleep
-slip
-slope
-smash
-smell
-smile
-smoke
-sneeze
-snow
-soap
-society
-son
-song
-sort
-sound
-soup
-space
-stage
-start
-statement
-steam
-steel
-step
-stitch
-stone
-stop
-story
-stretch
-structure
-substance
-sugar
-suggestion
 summer
 support
 surprise
