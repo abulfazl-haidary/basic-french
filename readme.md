@@ -13,6 +13,8 @@ Like Basis English but for French!
 
 ## Lessons
 
+- Common French Sentences: [https://www.thoughtco.com/most-common-french-phrases-1371064](https://www.thoughtco.com/most-common-french-phrases-1371064)
+
 ## Useful links:
 
 - Source marterial from: [http://basic-english.org/](http://basic-english.org/)
