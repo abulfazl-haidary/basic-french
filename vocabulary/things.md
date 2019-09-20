@@ -348,59 +348,57 @@ structure | structurer, (la) structure
 substance | (la) substance
 sugar | (le) sucre
 suggestion | (la) suggestion
-
-
-summer
-support
-surprise
-swim
-system
-talk
-taste
-tax
-teaching
-tendency
-test
-theory
-thing
-thought
-thunder
-time
-tin
-top
-touch
-trade
-transport
-trick
-trouble
-turn
-twist
-unit
-use
-value
-verse
-vessel
-view
-voice
-walk
-war
-wash
-waste
-water
-wave
-wax
-way
-weather
-week
-weight
-wind
-wine
-winter
-woman
-wood
-wool
-word
-work
-wound
-writing
-year
+summer | (le) été
+support | (le) soutien
+surprise | (la) surprise
+swim | nager, (la) nage
+system | (le) système
+talk | parler, discuter
+taste | goûter, (le) goût
+tax | taxer, (le) impôt
+teaching | (le) enseignement
+tendency | (la) tendance
+test | tester, (le) test
+theory | (la) théorie
+thing | (la) chose
+thought | (la) pensée
+thunder | (le) tonnerre
+time | (le) temps
+tin | (le) étain
+top | (le) haut, (le) sommet
+touch | toucher
+trade | faire du commerce, (le) commerce
+transport | transporter, (le) transport
+trick | (le) truc, (la) astuce
+trouble | (la) difficulté
+turn | tourner, (le) tour
+twist | (le) twist
+unit | (la) unité 
+use | utiliser, (la) utilisation
+value | (la) valeur
+verse | (le) verset
+vessel | (le) récipient, (le) vaisseau
+view | (la) vue
+voice | (la) voix
+walk | marcher, (la) marche
+war | (la) guerre
+wash | laver
+waste | (le) gaspillage
+water | (la) eau
+wave | (la) vague
+wax | (la) cire
+way | (le) chemin, (la) voie, (la) manière, (la) façon
+weather | (le) temps, (la) météo
+week | (la) semaine
+weight | (le) poids
+wind | (le) vent
+wine | (le) vin
+winter | (le) hiver
+woman | (la) femme
+wood | (le) bois
+wool | (la) laine
+word | (le) mot, (la) parole
+work | travailler, (le) travail
+wound | blesser, (la) blessure
+writing | (la) écriture
+year | (la) année, (le) an
