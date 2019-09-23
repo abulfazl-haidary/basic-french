@@ -2,44 +2,44 @@
 
 English | French
 --- | ---
-angle | (le)
-ant | (le)
-apple | (le)
-arch | (le)
-arm | (le)
-army | (le)
-baby | (le)
-bag | (le)
-ball | (le)
-band | (le)
-basin | (le)
-basket | (le)
-bath | (le)
-bed | (le)
-bee | (le)
-bell | (le)
-berry | (le)
-bird | (le)
-blade | (le)
-board | (le)
-boat | (le)
-bone | (le)
-book | (le)
-boot | (le)
-bottle | (le)
-box | (le)
-boy | (le)
-brain | (le)
-brake | (le)
-branch | (le)
-brick | (le)
-bridge | (le)
-brush | (le)
-bucket | (le)
-bulb | (le)
-button | (le)
-cake | (le)
-camera | (le)
+angle | (le) angle
+ant | (la) fourmi
+apple | (la) pomme
+arch | (la) arche
+arm | (le) bras
+army | (la) armée
+baby | (le) bébé
+bag | (le) sac
+ball | (la) balle
+band | (le) groupe
+basin | (le) bassin
+basket | (le) panier
+bath | (la) baignoire
+bed | (le) lit
+bee | (la) abeille
+bell | (la) cloche
+berry | (la) baie
+bird | (le) oiseau
+blade | (la) lame
+board | (la) planche
+boat | (le) bateau
+bone | (le) os
+book | (le) livre
+boot | (la) botte 
+bottle | (la) bouteille
+box | (la) boîte
+boy | (le) garçon
+brain | (le) cerveau
+brake | (le) frein
+branch | (la) branche
+brick | (la) brique
+bridge | (le) pont
+brush | (la) brosse
+bucket | (le) seau
+bulb | (la) ampoule
+button | (le) bouton
+cake | (le) gâteau
+camera | (la) caméra, (le) appareil photo
 card | (le)
 cart | (le)
 carriage | (le)
