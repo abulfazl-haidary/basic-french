@@ -5,12 +5,13 @@ Like Basis English but for French!
 ## Grammar
 
 - [Conjugation](/grammar/conjugation.md)
+- [Conjugation 2](/grammar/conjugation-2.md) (coming soon~)
 
 ## Vocabulary
 
 - [Operations](/vocabulary/operations.md)
 - [Things](/vocabulary/things.md)
-- [Things Picturable](/vocabulary/things-picturable.md)
+- [Things Picturable](/vocabulary/things-picturable.md) (coming soon~)
 
 ## Lessons
 
