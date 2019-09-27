@@ -40,64 +40,64 @@ bulb | (la) ampoule
 button | (le) bouton
 cake | (le) gâteau
 camera | (la) caméra, (le) appareil photo
-card | (le)
-cart | (le)
-carriage | (le)
-cat | (le)
-chain | (le)
-cheese | (le)
-chest | (le)
-chin | (le)
-church | (le)
-circle | (le)
-clock | (le)
-cloud | (le)
-coat | (le)
-collar | (le)
-comb | (le)
-cord | (le)
-cow | (le)
-cup | (le)
-curtain | (le)
-cushion | (le)
-dog | (le)
-door | (le)
-drain | (le)
-drawer | (le)
-dress | (le)
-drop | (le)
-ear | (le)
-egg | (le)
-engine | (le)
-eye | (le)
-face | (le)
-farm | (le)
-feather | (le)
-finger | (le)
-fish | (le)
-flag | (le)
-floor | (le)
-fly | (le)
-foot | (le)
-fork | (le)
-fowl | (le)
-frame | (le)
-garden | (le)
-girl | (le)
-glove | (le)
-goat | (le)
-gun | (le)
-hair | (le)
-hammer | (le)
-hand | (le)
-hat | (le)
-head | (le)
-heart | (le)
-hook | (le)
-horn | (le)
-horse | (le)
-hospital | (le)
-house | (le)
+card | (la) carte
+cart | (le) chariot
+carriage | (le) chariot
+cat | (le/la) chat(te) 
+chain | (la) chaîne
+cheese | (le) fromage
+chest | (la) poitrine
+chin | (le) menton
+church | (la) église
+circle | (le) cercle
+clock | (la) horloge 
+cloud | (le) nuage
+coat | (le) manteau
+collar | (le) collier
+comb | (le) peigne
+cord | (la) corde, (la) ficelle
+cow | (la) vache
+cup | (la) coupe
+curtain | (le) rideau
+cushion | (le) coussin
+dog | (le/la) chien(ne)
+door | (la) porte
+drain | (le) évier, (le) lavabo
+drawer | (le) tiroir
+dress | (la) robe
+drop | (la) goutte
+ear | (la) oreille
+egg | (le) œuf
+engine | (le) moteur
+eye | (le) œil
+face | (le) visage
+farm | (la) ferme
+feather | (la) plume
+finger | (le) doigt
+fish | (le) poisson
+flag | (le) drapeau
+floor | (le) sol
+fly | (la) mouche
+foot | (le) pied
+fork | (la) fourchette
+fowl | (la) volaille
+frame | (le) cadre
+garden | (le) jardin
+girl | (la) fille
+glove | (le) gant
+goat | (le) bouc, (la) chèvre
+gun | (le) pistolet
+hair | (le) cheveux
+hammer | (le) marteau
+hand | (la) main
+hat | (le) chapeau
+head | (la) tête
+heart | (le) cœur
+hook | (le) crochet
+horn | (le) klaxon
+horse | (le) cheval, (la) jument
+hospital | (le) hôpital
+house | (la) maison
 island | (le)
 jewel | (le)
 kettle | (le)
@@ -202,4 +202,3 @@ window | (le)
 wing | (le)
 wire | (le)
 worm | (le)
-
