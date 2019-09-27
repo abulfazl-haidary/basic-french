@@ -65,9 +65,6 @@ Nous avons mangé | We have eaten
 Vous avez mangé | You (plural or polite) have eaten
 Ils / Elles ont mangé | They have eaten
 
-
-## Bonus:
-
 ## 5) En train de se produire
 *You can talk about some event happening right now by using this construct:*
 
@@ -84,7 +81,7 @@ Nous  sommes en train de manger | We are eating
 Vous  êtes en train de manger | You (plural or polite) eating
 Ils / Elles  sont en train de manger | They are eating
 
-## You should learn the present tense of the verbs: être (to be), avoir (to have) and aller (to go):
+## Bonus, you should learn the present tense of the verbs: être (to be), avoir (to have) and aller (to go):
 
 Etre | To Be
 --- | ---
