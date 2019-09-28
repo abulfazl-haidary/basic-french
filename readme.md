@@ -40,3 +40,4 @@ Like Basis English but for French!
 - [ ] grammar: add list of 100 most used french verbs with 4 columns: english, french, link to [linguasorb](https://www.linguasorb.com/french/verbs/most-common-verbs) and link to [Nouvel Observateur](https://la-conjugaison.nouvelobs.com/)
 - [ ] finish conjugation 2
 - [x] add [Duolingo](https://www.duolingo.com/) and [Cloze Master](https://www.clozemaster.com/) to the useful links
+- [ ] add navigation, at least to go back to the home page
