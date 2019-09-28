@@ -19,6 +19,8 @@ Like Basis English but for French!
 
 ## Useful links for learning:
 - 100 Most Common French Verbs: [https://www.linguasorb.com/french/verbs/most-common-verbs](https://www.linguasorb.com/french/verbs/most-common-verbs)
+- Duolingo, learn the French language for free: [https://www.duolingo.com/](https://www.duolingo.com/)
+- ClozeMaster, learn French with full sentences: [https://www.clozemaster.com/](https://www.clozemaster.com/)
 
 
 ## Useful links for the project
@@ -31,5 +33,9 @@ Like Basis English but for French!
 ## Todo
 
 - [x] finish grammar -- conjugation
-- [ ] finish all 850 basic English words
+- [ ] finish all 850 basic English words (don't forget the religious words)
 - [ ] add basic sentence lessons
+- [ ] conjugation: add section 6) Venir de...
+- [ ] grammar: add list of 100 most used french verbs with 4 columns: english, french, link to [linguasorb](https://www.linguasorb.com/french/verbs/most-common-verbs) and link to [Nouvel Observateur](https://la-conjugaison.nouvelobs.com/)
+- [ ] finish conjugation 2
+- [x] add [Duolingo](https://www.duolingo.com/) and [Cloze Master](https://www.clozemaster.com/) to the useful links
