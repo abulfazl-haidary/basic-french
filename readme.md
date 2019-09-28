@@ -26,6 +26,7 @@ Like Basis English but for French!
 ## Useful links for the project
 - Source marterial from: [http://basic-english.org/](http://basic-english.org/)
 - Vocabulary list: [http://ogden.basic-english.org/](http://ogden.basic-english.org/)
+- Vocabulary religion: [http://ogden.basic-english.org/genreligion.html](http://ogden.basic-english.org/genreligion.html)
 - Description of all French tenses: [https://francais.lingolia.com/fr/grammaire/les-temps/apercu-des-temps-verbaux](https://francais.lingolia.com/fr/grammaire/les-temps/apercu-des-temps-verbaux)
 - Print out the markdown files: [https://gitprint.com/](https://gitprint.com/)
 - All important MarkDown features: [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
