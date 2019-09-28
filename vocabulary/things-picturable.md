@@ -98,56 +98,56 @@ horn | (le) klaxon
 horse | (le) cheval, (la) jument
 hospital | (le) hôpital
 house | (la) maison
-island | (le)
-jewel | (le)
-kettle | (le)
-key | (le)
-knee | (le)
-knife | (le)
-knot | (le)
-leaf | (le)
-leg | (le)
-library | (le)
-line | (le)
-lip | (le)
-lock | (le)
-map | (le)
-match | (le)
-monkey | (le)
-moon | (le)
-mouth | (le)
-muscle | (le)
-nail | (le)
-neck | (le)
-needle | (le)
-nerve | (le)
-net | (le)
-nose | (le)
-nut | (le)
-office | (le)
-orange | (le)
-oven | (le)
-parcel | (le)
-pen | (le)
-pencil | (le)
-picture | (le)
-pig | (le)
-pin | (le)
-pipe | (le)
-plane | (le)
-plate | (le)
-plough/plow | (le)
-pocket | (le)
-pot | (le)
-potato | (le)
-prison | (le)
-pump | (le)
-rail | (le)
-rat | (le)
-receipt | (le)
-ring | (le)
-rod | (le)
-roof | (le)
+island | (la) île
+jewel | (le) bijou, (les) bijoux
+kettle | (la) bouilloire
+key | (la) clé
+knee | (le) genou, (les) genoux
+knife | (le) couteau
+knot | (le) nœud
+leaf | (la) feuille
+leg | (la) jambe
+library | (la) bibliothèque
+line | (la) ligne
+lip | (la) lèvre
+lock | (la) serrure
+map | (la) carte
+match | (la) allumette
+monkey | (le) singe, (la) guenon
+moon | (la) lune
+mouth | (la) bouche
+muscle | (le) muscle
+nail | (le) ongle, (le) clou
+neck | (le) cou
+needle | (la) aiguille
+nerve | (le) nerf
+net | (le) filet
+nose | (le) nez
+nut | (le) écrou
+office | (le) bureau
+orange | (la) orange
+oven | (le) four
+parcel | (le) colis, (la) parcelle
+pen | (le) stylo
+pencil | (le) crayon
+picture | (la) photo, (la) image
+pig | (le) cochon, (la) truie
+pin | (la) épingle
+pipe | (le) tuyau
+plane | (le) avion
+plate | (la) assiette
+plough/plow | (la) charrue
+pocket | (le) poche
+pot | (la) casserole
+potato | (la) patate, (la) pomme de terre
+prison | (la) prison
+pump | (la) pumpe
+rail | (le) rail
+rat | (le) rat
+receipt | (le) reçu
+ring | (la) bague, (le) anneau
+rod | (la) barre
+roof | (le) toit, (la) toiture
 root | (le)
 sail | (le)
 school | (le)
