@@ -3,14 +3,14 @@
 English | Français
 --- | ---
 Come | Venir
-get | Obtenir
+get | Obtenir, prendre
 give | Donner
 go | Aller
 keep | Garder
-let | Laisser
+let | Laisser, l&acirc;cher
 make | Faire
-put | Poser
-seem | Sembler
+put | Poser, mettre
+seem | Sembler, avoir l'air de...
 take | Prendre
 be | être
 do | faire
@@ -18,22 +18,22 @@ have | avoir
 say | dire
 see | voir
 send | envoyer
-may | pouvoir
-will | about
-Vouloir | Environ
+can | pouvoir
+want | Vouloir
+about | Environ, &agrave; propos de
 across | En travers de / au travers de
 after | après
 against | contre
 among | Parmi
 at | à
 before | avant
-between | entre
+between | entre, au milieu de
 by | par
 down | En bas
 from | De (lieu), depuis (date)
 in | dans
-off | éteint
-on | Allumé, sur
+off | éteint, &eacute;teindre
+on | Allumé, allumer, sur
 over | Au-dessus de
 through | Au travers de
 to | À, vers
@@ -44,8 +44,8 @@ Avec | Comme
 for | pour
 of | De, du
 till | jusqu’à, jusqu’au
-than | a
-Que | un, une
+than | que
+a | un, une, des
 the | Le, la, les
 all | Tout, tous
 any | (quelconque)
