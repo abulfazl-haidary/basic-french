@@ -148,57 +148,57 @@ receipt | (le) reçu
 ring | (la) bague, (le) anneau
 rod | (la) barre
 roof | (le) toit, (la) toiture
-root | (le)
-sail | (le)
-school | (le)
-scissors | (le)
-screw | (le)
-seed | (le)
-sheep | (le)
-shelf | (le)
-ship | (le)
-shirt | (le)
-shoe | (le)
-skin | (le)
-skirt | (le)
-snake | (le)
-sock | (le)
-spade | (le)
-sponge | (le)
-spoon | (le)
-spring | (le)
-square | (le)
-stamp | (le)
-star | (le)
-station | (le)
-stem | (le)
-stick | (le)
-stocking | (le)
-stomach | (le)
-store | (le)
-street | (le)
-sun | (le)
-table | (le)
-tail | (le)
-thread | (le)
-throat | (le)
-thumb | (le)
-ticket | (le)
-toe | (le)
-tongue | (le)
-tooth | (le)
-town | (le)
-train | (le)
-tray | (le)
-tree | (le)
-trousers | (le)
-umbrella | (le)
-wall | (le)
-watch | (le)
-wheel | (le)
-whip | (le)
-whistle | (le)
-window | (le)
-wing | (le)
-wire | (le)
-worm | (le)
+root | (la) racine
+sail | (la) voile
+school | (la) école
+scissors | (les) ciseaux
+screw | (la) vis
+seed | (la) graine
+sheep | (le) mouton, (la) brebis
+shelf | (la) étagère
+ship | (le) navire
+shirt | (la) chemise
+shoe | (la) chaussure
+skin | (la) peau
+skirt | (la) jupe
+snake | (le) serpent
+sock | (la) chaussette
+spade | (la) bêche
+sponge | (la) éponge
+spoon | (la) cuillère
+spring | (le) printemps
+square | (le) carré
+stamp | (le) timbre
+star | (la) étoile
+station | (la) gare
+stem | (la) tige
+stick | (le) bâton
+stocking | (le) stockage
+stomach | (le) estomac
+store | (le) magasin
+street | (la) rue
+sun | (le) soleil
+table | (la) table
+tail | (la) queue
+thread | (le) fil
+throat | (la) gorge
+thumb | (le) pouce
+ticket | (le) billet
+toe | (le) orteil
+tongue | (la) langue
+tooth | (la) dent
+town | (la) ville
+train | (le) train
+tray | (le) plateau
+tree | (le) arbre
+trousers | (le) pantalon
+umbrella | (le) parapluie
+wall | (le) mur
+watch | (la) montre
+wheel | (la) roue
+whip | (le) fouet
+whistle | (le) sifflet
+window | (la) fenêtre
+wing | (la) aile
+wire | (le) câble
+worm | (le) ver
