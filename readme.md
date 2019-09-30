@@ -11,7 +11,7 @@ Like Basis English but for French!
 
 - [Operations](/vocabulary/operations.md)
 - [Things](/vocabulary/things.md)
-- [Things Picturable](/vocabulary/things-picturable.md) (coming soon~)
+- [Things Picturable](/vocabulary/things-picturable.md)
 
 ## Lessons
 
